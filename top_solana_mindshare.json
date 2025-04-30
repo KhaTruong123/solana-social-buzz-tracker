@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "a252b851-675b-4244-a655-3a773ec53584",
+    "symbol": "ATLAS",
+    "name": "Star Atlas",
+    "slug": "star-atlas",
+    "category": "Metaverse and Gaming",
+    "sector": "Gaming",
+    "tags": [
+      "NFTs",
+      "Play-to-Earn"
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/staratlasmeta"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/star-atlas"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/star-atlas"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/star-atlas"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/staratlasgame"
+      },
+      {
+        "name": "Whitepaper",
+        "url": "https://staratlas.com/white-paper.pdf"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/staratlas"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/StarAtlasMmo/"
+      },
+      {
+        "name": "Website",
+        "url": "https://staratlas.com/"
+      },
+      {
+        "name": "Blog",
+        "url": "https://staratlas.com/newsroom"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/star-atlas"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/StarAtlas/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/staratlasgame/"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/staratlas"
+      },
+      {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://staratlas.com/white-paper.pdf"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://explorer.solana.com/address/atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx"
+      }
+    ],
+    "percentageChange1d": 19066.666666666668
+  },
+  {
+    "id": "83b276b9-8b42-4a99-9034-985ae99ce1e5",
+    "symbol": "jobcoin",
+    "name": "JOBCOIN",
+    "slug": "jobcoin-2",
+    "category": "",
+    "sector": "",
+    "tags": [],
+    "links": [],
+    "percentageChange1d": 4872.727272727273
+  },
+  {
+    "id": "8509a634-23a6-4791-ae1d-384d6dd068ee",
+    "symbol": "CHEEMS",
+    "name": "Cheems",
+    "slug": "cheems",
+    "category": "",
+    "sector": "",
+    "tags": [
+      "Meme",
+      "NFTs"
+    ],
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/TheCheemsToken"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc"
+      },
+      {
+        "name": "Website",
+        "url": "https://cheems.co"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://reddit.com/r/Cheems_Token"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/CHEEMSISGAY"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/zmxvx3JQfr"
+      }
+    ],
+    "percentageChange1d": 3100
+  },
+  {
+    "id": "a0dd8d2e-67af-468c-8173-e6896e2e2dfb",
+    "symbol": "ATH",
+    "name": "Aethir",
+    "slug": "aethir",
+    "category": "Compute Networks",
+    "sector": "General Compute",
+    "tags": [
+      "A.I.",
+      "DePIN"
+    ],
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/aethir-limited/"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.aethir.com/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/AethirCloud"
+      },
+      {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/532644-40"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/aethir"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@AethirCloud"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/6KDKznaRTr"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/aethir-c6fc"
+      },
+      {
+        "name": "Blog",
+        "url": "https://www.aethir.com/blog"
+      },
+      {
+        "name": "Block Explorer 2",
+        "url": "https://solscan.io/token/Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7"
+      },
+      {
+        "name": "Block Explorer 3",
+        "url": "https://arbiscan.io/token/0xc87b37a581ec3257b734886d9d3a581f5a9d056c"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/AethirCloud"
+      },
+      {
+        "name": "Whitepaper",
+        "url": "https://docs.aethir.com/whitepaper"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://platform.arkhamintelligence.com/explorer/token/aethir"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.aethir.com/"
+      },
+      {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/aethir_cloud"
+      }
+    ],
+    "percentageChange1d": 907.2916666666667
+  },
+  {
+    "id": "76d40833-78fc-4604-a965-0a461e964c6a",
+    "symbol": "LAYER",
+    "name": "Solayer",
+    "slug": "solayer",
+    "category": "Mining and Validation",
+    "sector": "Liquid Staking",
+    "tags": [
+      "DeFi",
+      "Restaking"
+    ],
+    "links": [
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/solayerlabs"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/solayer-labs"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.solayer.org/solayer-docs"
+      },
+      {
+        "name": "Blog",
+        "url": "https://solayer.org/blog"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/solayer_labs"
+      },
+      {
+        "name": "Website",
+        "url": "https://solayer.org/"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/solayer-7f10"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/solayer-labs/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@solayer_labs/"
+      },
+      {
+        "name": "Litepaper",
+        "url": "https://github.com/solayer-labs/solayer-improvement-proposal/blob/main/solayer-litepaper-v0.pdf"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/solayer_discussion"
+      },
+      {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/596920-06"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/solayer"
+      },
+      {
+        "name": "Forum",
+        "url": "https://www.linkedin.com/company/solayer-labs"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc"
+      }
+    ],
+    "percentageChange1d": 760.6060606060606
+  },
+  {
+    "id": "c9b6f77e-a47c-4779-88e6-15f13f3c3bc9",
+    "symbol": "GIGA",
+    "name": "Gigachad",
+    "slug": "gigachad-2",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://www.gigachad.fitness/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/GigaChadSol"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/GIGACHAD_meme"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@giga_chad_on_sol"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9"
+      }
+    ],
+    "percentageChange1d": 694.2857142857143
+  },
+  {
+    "id": "b9ebc7f9-bde9-428d-bed6-d4b08e418084",
+    "symbol": "buddy",
+    "name": "BUDDY",
+    "slug": "buddy-2",
+    "category": "",
+    "sector": "",
+    "tags": [],
+    "links": [
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/3iy5zskrnevsmu4h8nzyywyey46osdmc1laosmv3pump"
+      },
+      {
+        "name": "Website",
+        "url": "https://buddyonsol.fun"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/buddyportalcto"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/buddycoinsolana"
+      }
+    ],
+    "percentageChange1d": 624
+  },
+  {
+    "id": "b70575e1-70ad-43bd-a270-c6f5b19e6f9a",
+    "symbol": "mlg",
+    "name": "360noscope420blazeit",
+    "slug": "360noscope420blazeit",
+    "category": "Metaverse and Gaming",
+    "sector": "Gaming",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/mlgsolana420"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@MLGonSolana"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/MLGCTOPORTAL"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://platform.arkhamintelligence.com/explorer/token/360noscope420blazeit"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.twitch.tv/mlgonsolana"
+      }
+    ],
+    "percentageChange1d": 415.0537634408602
+  },
+  {
+    "id": "0a15a210-b6e4-4301-9672-3cf352c1ba68",
+    "symbol": "collat",
+    "name": "Collaterize",
+    "slug": "collaterize",
+    "category": "Synthetic Assets",
+    "sector": "Real World Assets",
+    "tags": [
+      "NFTs"
+    ],
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/collaterize/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/CollaterizeHQ"
+      },
+      {
+        "name": "Website",
+        "url": "https://collaterize.com/"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/rMZ2ScvQSD"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/C7heQqfNzdMbUFQwcHkL9FvdwsFsDRBnfwZDDyWYCLTZ"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/collaterizecommunity"
+      }
+    ],
+    "percentageChange1d": 350.00000000000006
+  },
+  {
+    "id": "057c11ff-2b9c-41f9-ab50-f7c989e15e9c",
+    "symbol": "hosico",
+    "name": "Hosico Cat",
+    "slug": "hosico-cat",
+    "category": "",
+    "sector": "",
+    "tags": [],
+    "links": [],
+    "percentageChange1d": 266.99029126213594
+  },
+  {
+    "id": "14e8033d-68ca-49eb-b7e7-3635aa99fa11",
+    "symbol": "chonky",
+    "name": "CHONKY",
+    "slug": "chonky",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Telegram",
+        "url": "https://t.me/solanachonky"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/chonkycom"
+      },
+      {
+        "name": "Website",
+        "url": "https://chonky.com/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/H7ed7UgcLp3ax4X1CQ5WuWDn6d1pprfMMYiv5ejwLWWU"
+      }
+    ],
+    "percentageChange1d": 249.99999999999994
+  },
+  {
+    "id": "2a19b03a-f663-4742-bd2d-ea8e2d4adade",
+    "symbol": "SONIC",
+    "name": "SONIC SVM",
+    "slug": "sonic-svm",
+    "category": "Networks",
+    "sector": "Smart Contract Platform",
+    "tags": [
+      "SVM"
+    ],
+    "links": [
+      {
+        "name": "Documentation",
+        "url": "https://github.com/mirrorworld-universe/reports/blob/master/Sonic%20SVM%20%E2%80%93%20A%20HyperGrid%20Scaling%20Future%20of%20Solana.pdf"
+      },
+      {
+        "name": "Forum",
+        "url": "https://www.tiktok.com/@sonicsvm"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/joinmirrorworld"
+      },
+      {
+        "name": "Blog",
+        "url": "https://blog.sonic.game/"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.sonic.game/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/SonicSVM"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@sonicsvm"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/SonicSVM"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/mirrorworld-universe"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/sonic-1942"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/sonic-3"
+      },
+      {
+        "name": "Gitbook",
+        "url": "https://docs.sonic.game/"
+      }
+    ],
+    "percentageChange1d": 241.0958904109589
+  },
+  {
+    "id": "402dd788-47a8-431e-a258-2d28b69eff4c",
+    "symbol": "bios",
+    "name": "BIOS",
+    "slug": "bios-2",
+    "category": "Metaverse and Gaming",
+    "sector": "Metaverse",
+    "tags": [
+      "AI Agents"
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/Bauhinia-AI/Biosphere3"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://biosphere3.gitbook.io/biosphere3"
+      },
+      {
+        "name": "Website",
+        "url": "https://biosphere3.ai/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/biosphere3_ai"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/DWDnYfhVMnNBbWz4uEVvLVZLdYQoSuBosSU2vmHSpump"
+      }
+    ],
+    "percentageChange1d": 234.84848484848487
+  },
+  {
+    "id": "2fa6533f-c00c-48b5-acf6-effd2677c37b",
+    "symbol": "italianrot",
+    "name": "Italian Brainrot",
+    "slug": "italian-brainrot",
+    "category": "",
+    "sector": "",
+    "tags": [],
+    "links": [],
+    "percentageChange1d": 197.1830985915493
+  },
+  {
+    "id": "9f398fc2-e822-4910-b17f-9baf2cac9c1f",
+    "symbol": "CLANKER",
+    "name": "Clanker Robot AI Slur",
+    "slug": "clanker-robot-ai-slur",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "AI Agents",
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/3qq54YqAKG3TcrwNHXFSpMCWoL8gmMuPceJ4FG9npump"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/clankeronsol"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.clankers.ai/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/clankeronsolana"
+      }
+    ],
+    "percentageChange1d": 163.63636363636363
+  },
+  {
+    "id": "a055ae6e-4f46-40c9-aaf0-0ef57a1de83a",
+    "symbol": "ACT",
+    "name": "Act I The AI Prophecy",
+    "slug": "act-i-the-ai-prophecy",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "AI Agents",
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Telegram",
+        "url": "https://t.me/actportal"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/ACTICOMMUNITY"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+      },
+      {
+        "name": "Website",
+        "url": "https://actsol.xyz/"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://reddit.com/r/ACT1"
+      }
+    ],
+    "percentageChange1d": 150.36496350364962
+  },
+  {
+    "id": "d94280bd-6787-4c43-9cc3-61e3b693ff7b",
+    "symbol": "PYTH",
+    "name": "Pyth Network",
+    "slug": "pyth-network",
+    "category": "Data",
+    "sector": "Oracles",
+    "tags": [
+      "SVM"
+    ],
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/PythNetwork"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/pyth-network/"
+      },
+      {
+        "name": "Website",
+        "url": "https://pyth.network/"
+      },
+      {
+        "name": "Blog",
+        "url": "https://pyth.network/blog"
+      },
+      {
+        "name": "Forum",
+        "url": "https://forum.pyth.network/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@pythnetwork"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/pyth_network/"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/PythNetwork/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.pyth.network/home"
+      },
+      {
+        "name": "Whitepaper",
+        "url": "https://pyth.network/whitepaper_v2.pdf"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/pyth-network"
+      },
+      {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/470505-07"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/pyth-network"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/investor/pyth-network"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/PythNetwork"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/Pyth_Network"
+      },
+      {
+        "name": "Chat",
+        "url": "https://pyth.network/blog"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://neonscan.org/token/0x0575dd4afd93b7522fee4e0179f243eca3856137"
+      }
+    ],
+    "percentageChange1d": 144.23076923076923
+  },
+  {
+    "id": "c6ed3bcf-f80f-41e3-8235-8b4daed9a813",
+    "symbol": "DRIFT",
+    "name": "Drift Protocol",
+    "slug": "driftprotocol",
+    "category": "Marketplaces",
+    "sector": "Exchange",
+    "tags": [
+      "Automated Market Maker (AMM)",
+      "DeFi",
+      "Decentralized Exchange",
+      "Derivatives",
+      "Perpetuals"
+    ],
+    "links": [
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/fMcZBH8ErM"
+      },
+      {
+        "name": "Blog",
+        "url": "https://www.drift.trade/blog"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/DriftProtocol"
+      },
+      {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/483919-57"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/drift-protocol"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/driftprotocol/"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/drift-protocol"
+      },
+      {
+        "name": "Medium",
+        "url": "https://driftprotocol.medium.com/"
+      },
+      {
+        "name": "Litepaper",
+        "url": "https://assets-global.website-files.com/611580035ad59b20437eb024/61293b57e3103934ddc5535f_v0%20Devnet%20Feature%20Paper%20-%20Revision%201.1.pdf"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/drift-labs"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.drift.trade/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.drift.trade/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/+G4i0AZcHf6cxNDll"
+      }
+    ],
+    "percentageChange1d": 137.64705882352945
+  },
+  {
+    "id": "75d65791-a5f6-44ca-813b-bf8bb078af3f",
+    "symbol": "degod",
+    "name": "degod",
+    "slug": "degod",
+    "category": "Entertainment",
+    "sector": "Collectibles and Digital Goods",
+    "tags": [
+      "NFTs"
+    ],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://degods.com/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/DeGodsNFT"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/theDeGods"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/degods"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/degods"
+      },
+      {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/547318-54"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/dexyz"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/degodsportal"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://platform.arkhamintelligence.com/explorer/token/degod"
+      }
+    ],
+    "percentageChange1d": 133.0827067669173
+  },
+  {
+    "id": "e35be191-8ec4-43ef-b968-0b591839e35c",
+    "symbol": "aixbt",
+    "name": "aixbt by Virtuals",
+    "slug": "aixbt",
+    "category": "Developer Tooling",
+    "sector": "Automation",
+    "tags": [
+      "AI Agents",
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Blog",
+        "url": "https://aixbt.substack.com/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/aixbtportal"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/aixbt_agent"
+      },
+      {
+        "name": "Website",
+        "url": "https://aixbt.tech/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://basescan.org/token/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825"
+      },
+      {
+        "name": "Block Explorer 2",
+        "url": "https://solscan.io/token/14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX"
+      }
+    ],
+    "percentageChange1d": 122.03389830508475
+  },
+  {
+    "id": "0d8b00d2-9e0a-4489-891b-6e663a6fcd10",
+    "symbol": "TURBO",
+    "name": "Turbo",
+    "slug": "turbo-0",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Whitepaper",
+        "url": "https://assets.zyrosite.com/AQEXQGKz2ZUw9lML/turbo-whitepaper-69-YleqgaWVMoF0N1M0.pdf"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/TurboToadToken"
+      },
+      {
+        "name": "Website",
+        "url": "https://turbotoken.io"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/turbotoad_token/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://ethplorer.io/address/0xa35923162c49cf95e6bf26623385eb431ad920d3"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/TurboToadToken"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/TurboToadToken"
+      },
+      {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0xa35923162c49cf95e6bf26623385eb431ad920d3"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://reddit.com/r/TurboToadX/"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/GMCHwwsQnY"
+      }
+    ],
+    "percentageChange1d": 89.8034398034398
+  },
+  {
+    "id": "d0f37f80-8e59-4b92-b9d1-a818a43e8c8b",
+    "symbol": "HNT",
+    "name": "Helium",
+    "slug": "helium",
+    "category": "Physical Infrastructure Networks",
+    "sector": "Wireless and Sensor Networks",
+    "tags": [
+      "DePIN",
+      "SVM"
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/helium"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.helium.com/"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/HeliumNetwork"
+      },
+      {
+        "name": "Slack",
+        "url": "http://chat.helium.com"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/c/HeliumInc"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/heliumnetwork/"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/helium"
+      },
+      {
+        "name": "Whitepaper",
+        "url": "http://whitepaper.helium.com/"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/helium"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/helium-systems-inc"
+      },
+      {
+        "name": "Telegram",
+        "url": "http://t.me/helium_network"
+      },
+      {
+        "name": "Blog",
+        "url": "https://blog.helium.com/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/helium"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com/heliumsystems"
+      },
+      {
+        "name": "Forum",
+        "url": "https://chat.helium.com/"
+      },
+      {
+        "name": "Chat",
+        "url": "https://chat.helium.com/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://explorer.helium.com/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/join.helium/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.helium.com/"
+      }
+    ],
+    "percentageChange1d": 82.6923076923077
+  },
+  {
+    "id": "e49fc2af-43d4-4af2-8f36-9755b92a779d",
+    "symbol": "memefi",
+    "name": "MemeFi",
+    "slug": "memefi",
+    "category": "",
+    "sector": "",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://x.com/MemeFiSolana"
+      },
+      {
+        "name": "Website",
+        "url": "https://memefi.cash/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/6BhEBfR5YugSbeSyiCZzsf2v2adwUeKzTgfiG2hePhto"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/MemeFiSolana"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@memefisolana"
+      }
+    ],
+    "percentageChange1d": 75.28089887640449
+  },
+  {
+    "id": "9292cc1b-fd6f-47a8-9714-965bd802ee29",
+    "symbol": "hodl",
+    "name": "HODL",
+    "slug": "hodl-3",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://wehodl.vip/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/weHODLvip"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/weHODLvip"
+      }
+    ],
+    "percentageChange1d": 70.45454545454544
+  },
+  {
+    "id": "03f388f2-0cae-47c4-bea8-eea7dd34cc04",
+    "symbol": "botify",
+    "name": "BOTIFY",
+    "slug": "botify",
+    "category": "Developer Tooling",
+    "sector": "Automation",
+    "tags": [
+      "A.I.",
+      "AI Agents"
+    ],
+    "links": [
+      {
+        "name": "Gitbook",
+        "url": "https://botify-cloud.gitbook.io/whitepaper"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/botifycloud"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/botifydotcloud"
+      },
+      {
+        "name": "Website",
+        "url": "https://botify.cloud/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb"
+      }
+    ],
+    "percentageChange1d": 66.15384615384615
+  },
+  {
+    "id": "ac9b3c17-0e8a-400d-8397-7184383f2c53",
+    "symbol": "bome",
+    "name": "BOOK OF MEME",
+    "slug": "book-of-meme",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/Darkfarms1"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/BOOK_OF_MEME"
+      },
+      {
+        "name": "Website",
+        "url": "https://llwapirxnupqu7xw2fspfidormcfar7ek2yp65nu7k5opjwhdywq.arweave.net/WuwHojdtHwp-9tFk8qBuiwRQR-RWsP91tPq656bHHi0"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82"
+      }
+    ],
+    "percentageChange1d": 63.76811594202898
+  },
+  {
+    "id": "0b3fee37-34e6-4ca0-a838-c5638fb1129f",
+    "symbol": "cbBTC",
+    "name": "Coinbase Wrapped BTC",
+    "slug": "coinbase-wrapped-btc",
+    "category": "Synthetic Assets",
+    "sector": "Wrapped Assets",
+    "tags": [
+      "DeFi",
+      "Wrapped Bitcoin Asset"
+    ],
+    "links": [
+      {
+        "name": "Whitepaper",
+        "url": "https://coinbase.bynder.com/m/1303c2f4d78fc966/original/cbBTC-White-Paper.pdf"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.coinbase.com/cbbtc"
+      },
+      {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/coinbase"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.cdp.coinbase.com/"
+      }
+    ],
+    "percentageChange1d": 61.60714285714287
+  },
+  {
+    "id": "3ee6796b-90f9-425e-b4c7-109f91dec6cb",
+    "symbol": "BB",
+    "name": "BounceBit",
+    "slug": "bouncebit",
+    "category": "Mining and Validation",
+    "sector": "Liquid Staking",
+    "tags": [
+      "DeFi",
+      "Liquid Staking",
+      "Restaking"
+    ],
+    "links": [
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@bouncebit"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/BounceBit-Labs"
+      },
+      {
+        "name": "Gitbook",
+        "url": "https://docs.bouncebit.io/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://x.com/bounce_bit"
+      },
+      {
+        "name": "Website",
+        "url": "https://bouncebit.io/"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/bouncebit"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/bouncebit_io"
+      },
+      {
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/organization/bouncebit"
+      },
+      {
+        "name": "Pitchbook",
+        "url": "https://pitchbook.com/profiles/company/589376-53"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/bouncebit/"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/company/bouncebit"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://bbscan.io/"
+      },
+      {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0xd459ECeddafcc1d876a3be7290A2E16e801073a3"
+      }
+    ],
+    "percentageChange1d": 61.45833333333335
+  },
+  {
+    "id": "7920b21c-664c-4a15-82a7-c3132d0c7b2e",
+    "symbol": "EURC",
+    "name": "EURC",
+    "slug": "euro-coin",
+    "category": "Cryptocurrency",
+    "sector": "Stablecoins",
+    "tags": [
+      "Centralized Issuer",
+      "Euro Stablecoin"
+    ],
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/circlepay"
+      },
+      {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x1abaea1f7c830bd89acc67ec4af516284b1bc33c"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://avascan.info/blockchain/c/address/0xc891eb4cbdeff6e073e859e987815ed1505c2acd/token"
+      },
+      {
+        "name": "Website",
+        "url": "https://www.circle.com"
+      }
+    ],
+    "percentageChange1d": 57.14285714285715
+  },
+  {
+    "id": "3def29d4-ecec-4efd-994e-121206be05c8",
+    "symbol": "NOS",
+    "name": "Nosana",
+    "slug": "nosana",
+    "category": "Compute Networks",
+    "sector": "General Compute",
+    "tags": [
+      "A.I.",
+      "DePIN"
+    ],
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://nosana.io/"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/NosanaCI"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/nosana-ai"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/nosana_ai"
+      },
+      {
+        "name": "Medium",
+        "url": "https://nosana.medium.com/"
+      },
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/nosxbvoacttydlvky6csb4ac8jcdqkkaawytx2zmoo7"
+      },
+      {
+        "name": "Forum",
+        "url": "https://nosana.medium.com/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.nosana.io"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/nosana-ci"
+      }
+    ],
+    "percentageChange1d": 55.55555555555556
+  },
+  {
+    "id": "bcbe9ab0-8a03-4295-bd4c-5e4d7caf1026",
+    "symbol": "TRUMP",
+    "name": "Official Trump",
+    "slug": "official-trump",
+    "category": "Cryptocurrency",
+    "sector": "Cryptocurrency",
+    "tags": [
+      "Meme"
+    ],
+    "links": [
+      {
+        "name": "Block Explorer",
+        "url": "https://solscan.io/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+      },
+      {
+        "name": "Website",
+        "url": "https://gettrumpmemes.com/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/realDonaldTrump"
+      }
+    ],
+    "percentageChange1d": 55.399568034557234
+  }
+]
