@@ -19,3 +19,12 @@ This repo surfaces Solana tokens whose social “mindshare” spiked over a 24 h
    ```bash
    git clone https://github.com/YOUR_USERNAME/solana-social-buzz-tracker.git
    cd solana-social-buzz-tracker
+2. Create a virtual env & install
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+3. Set your Messari API key
+  Reference: https://docs.messari.io/reference/introduction#api-key
+    ```bash
+    export MESSARI_KEY="..."  
